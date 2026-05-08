@@ -1,0 +1,12 @@
+#passo-0 h1 {
+    font-size: 3rem;
+    color: #ffcc00;
+    text-align: center;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+#passo-0 button {
+    background-color: #28a745; /* Um verde chamativo para o "Iniciar" */
+    font-weight: bold;
+}
